@@ -1,0 +1,428 @@
+"M=MODULE"	"module_enabled"	"module_name"	""	""	""	""	""	""	""	""
+"S=SUBJECT"	"subject_enabled"	"subject_name"	"subject_description"	""	""	""	""	""	""	""
+"Q=QUESTION"	"question_enabled"	"question_description"	"question_explanation"	"question_type"	"question_difficulty"	"question_position"	"question_timer"	"question_fullscreen"	"question_inline_answers"	"question_auto_next"
+"A=ANSWER"	"answer_enabled"	"answer_description"	"answer_explanation"	"answer_isright"	"answer_position"	"answer_keyboard_key"	""	""	""	""
+""	""	""	""	""	""	""	""	""	""	""
+"M"	"1"	"PAI"	""	""	""	""	""	""	""	""
+"S"	"1"	"Ujian Sekolah"	""	""	""	""	""	""	""	""
+"Q"	"1"	"Allah telah memerintahkan umat Islam untuk menjauhi tiga perkara buruk yang diisayaratkan dalam firman Allah Q.S. al Hujurat/49: 12. yang berbunyi; َوََل ْ َج َّس ُسوا َو ََل تَ ٞۖ م ۡ ِث إ َّظ نِ َّن بَۡع َض ٱل ِ إ َّظ نِ َكثِيٗرا ِ م َن ٱل ْ ٱ ۡجتَنِبُوا ْ َمنُوا ِذي َن َءا َّ َها ٱل ُّ ي َ أ َٰٓ ۡغ يَ تَب بَّۡع ُض ُكم يَ ۚ بَۡع ًضا ..... Berdasarkan potongan ayat tersebut, perkara buruknya adalah .....&nbsp;"	""	"S"	"1"	"1"	"0"	"0"	"0"	"0"
+"A"	"1"	"Berbuat ghibah (membicakan orang lain), berprasangka buruk pada saudara seiman dan berprasangka baik pada teman"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"Bersuudzon kepada pada saudara seiman, mencari-cari kesalahan orang lain untuk dijatuhkan reputasinya dan berghibah (membicarakan orang lain)"	""	"1"	"2"	""	""	""	""	""
+"A"	"1"	"Mencuri dengan mengambil hak orang lain, mencari-cari kesalahan orang lain dan senang menggosipkan orang lain"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"Membunuh sebagai bentuk mengambil hak hidup orang lain, merusak ketenangan sesama umat beragama dan menggunjing"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"Mempublikasikan berita tidak benar, menghalalkan segala cara untuk meraih kemenangan dan popularitas"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"Di era teknologi saat ini, kita semakin mudah untuk mendapatkan berbagai informasi. Mulai dari informasi yang sangat kita butuhkan, hingga informasi yang sama sekali tidak kita butuhkan. Misalnya saja kehidupan privasi para artis di Indonesia. Baik di televisi, radio, surat kabar bahkan dengan mudahnya kita mendapatkan informasi dari berbagai media sosial. Beradasarkan narasi tersebut, sikap yang paling tepat untuk mengimplementasikan Q.S. al-Hujurat ayat 12 dalam kehidupan sehari-hari adalah ....&nbsp;"	""	"S"	"1"	"2"	"0"	"0"	"0"	"0"
+"A"	"1"	"menyadarkan para artis dengan memberi komentar yang tegas"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"mengikuti gaya hidup artis dengan cara berlebihan"	""	"0"	"2"	""	""	""	""	""
+"A"	"1"	"berusaha agar tidak ketinggalan informasi tentang kabar artis terkini"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"berhati-hati sebelum menirukan artis yang diidolakan"	""	"1"	"4"	""	""	""	""	""
+"A"	"1"	"mencari-cari kesalahan artis yang tidak disenangi."	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"<img src='../../cache/upload/PAI/Ujian Sekolah/tmfajax_20230402132349_gambarpaitajwid.jpg'><br/>Cermati Q.S. Al-Isra /17: 32 berikut ini! Hukum bacaan tajwid yang bergaris bawah tersebut adalah…&nbsp;"	""	"S"	"1"	"3"	"0"	"0"	"0"	"0"
+"A"	"1"	"(1) Al qamariyah, (2) mad thabi’i dan (3) idgham bigunnah"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"(1) Al syamsiyah, (2) mad thabi’i dan (3) idgham bigunnah"	""	"1"	"2"	""	""	""	""	""
+"A"	"1"	"(1) Al qamariyah, (2) mad thabi’i dan (3) idgham bilagunnah"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"(1) Al qamariyah, (2) mad lain dan (3) idgham bilagunnah"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"(1) Al syamsiyah, (2) mad thabi’i dan (3) idgham bilagunnah"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"<img src='../../cache/upload/PAI/Ujian Sekolah/tmfajax_20230402132339_gambar2.jpg'><br/>Perhatikan tabel dibawah ini! Pasangan potongan ayat dan arti dari Q.S. an-Nisa/4: 59 yang benar adalah. …&nbsp;"	""	"S"	"1"	"4"	"0"	"0"	"0"	"0"
+"A"	"1"	"1 = a, 2 = b, 3 = c, 4 = d"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"1 = a, 2 = c, 3 = c, 4 = d"	""	"0"	"2"	""	""	""	""	""
+"A"	"1"	"1 = a, 2 = c, 3 = b, 4 = d"	""	"1"	"3"	""	""	""	""	""
+"A"	"1"	"1 = b, 2 = a, 3 = b, 4 = d"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"1 = c, 2 = d, 3 = a, 4 = d"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"Cermati penggalan Q.S. Al Maidah/ 5: 32 berikut:
+:
+......
+ۚ
+َس َج ِميٗعا
+ۡحيَا ٱلنَّا
+َ
+َمآَٰ أ
+نَّ
+َ
+ۡحيَا َها فَ َكأ
+َ
+َو َمۡن أ
+....
+Kandungan firman Allah SWT., yang mengisyaratkan larangan tindakan pengrusakan dan
+memelihara kehidupan manusia dimuka bumi dapat direalisasikan dengan. …
+&nbsp;"	""	"S"	"1"	"5"	"0"	"0"	"0"	"0"
+"A"	"1"	"melaksanakan shalat lima waktu di awal waktu"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"melaksanakan shalat tahajud pada sepertiga malam"	""	"0"	"2"	""	""	""	""	""
+"A"	"1"	"memberikan santunan kepada anak yatim piatu"	""	"1"	"3"	""	""	""	""	""
+"A"	"1"	"berpuasa sunah setiap hari senin dan kamis"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"membaca al-Quran setiap hari di rumah dan di masjid"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"Prof. Dr. Quraish Shihab mengelompokan kaum musyrikin ke dalam dua golongan, yaitu
+ada orang yang percaya kepada al qur’an, tetapi menolak kebenaran al-Qur’an karena keras
+kepala dan demi mempertahankan kedudukan sosialnya. Dan ada yang memang benar-benar
+lahir dan batin tidak percaya kepada al qur’an serta enggan memerhatikannya karena hati
+mereka telah terkunci. Penjelasan ini didapatkan dari potongan ayat. …&nbsp;"	""	"S"	"1"	"6"	"0"	"0"	"0"	"0"
+"A"	"1"	"jawaban a"	""	"1"	"1"	""	""	""	""	""
+"A"	"1"	"jawaban b"	""	"0"	"2"	""	""	""	""	""
+"A"	"1"	"jawaban c"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"jawaban d"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"jawaban e"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"Perhatikan Q.S. Ali-Imran/3:159 berikut! Makna penggalan ayat yang bergaris bawah adalah….&nbsp;"	""	"S"	"1"	"7"	"0"	"0"	"0"	"0"
+"A"	"1"	"lemah lembut"	""	"1"	"1"	""	""	""	""	""
+"A"	"1"	"bertawakal"	""	"0"	"2"	""	""	""	""	""
+"A"	"1"	"maafkanlah"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"bersikap keras"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"berhati kasar"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"Perhatikan Q.S. Luqman/31: 14 berikut! Perilaku yang sejalan dengan pesan ayat di atas adalah……&nbsp;"	""	"S"	"1"	"8"	"0"	"0"	"0"	"0"
+"A"	"1"	"Rian menjenguk tetangga yang sakit"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"Umar senantiasa menghormati kedua orang tuanya"	""	"1"	"2"	""	""	""	""	""
+"A"	"1"	"Bintang senantiasa menyantuni anak yatim"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"Rijal setiap hari bersedekah kepada fakir miskin"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"Fajar ketika berbicara sopan kepada guru"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"<img src='../../cache/upload/PAI/Ujian Sekolah/tmfajax_20230402133155_pai-9.png'><br/>Perhatikan Q.S. al-Baqarah/2: 83 berikut ! Perilaku yang sesuai dengan isi kandungan ayat tersebut adalah ... .&nbsp;"	""	"S"	"1"	"9"	"0"	"0"	"0"	"0"
+"A"	"1"	"Membuang sampah pada tempatnya"	""	"1"	"1"	""	""	""	""	""
+"A"	"1"	"Membantu anak yatim dan kaum dhu’afa"	""	"0"	"2"	""	""	""	""	""
+"A"	"1"	"Belajar dengan sungguh-sungguh untuk mengejar cita-cita"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"Rajin menghadiri setiap majlis taklim yang diselenggarakan warga"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"Membaca Al-Quran setiap hari setelah melaksanakan shalat yang lima waktu"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"Berikut adalah pernyataan-pernyataan dalam kehidupan kita sehari-hari;
+1) Adi membantu teman yang sedang kesulitan, tanpa membeda-bedakan.
+2) Ketua OSIS memberikan kesempatan yang sama kepada teman untuk berpendapat.
+3) Mariam melaksanakan tugas piket harian di sekolah sesuai dengan jadwal.
+Beradasarkan ketiga pernyataan di atas, manakah sifat Allah Swt dalam al-asma al-husna
+yang sesuai. …&nbsp;"	""	"S"	"1"	"10"	"0"	"0"	"0"	"0"
+"A"	"1"	"Al-’Adl"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"Al-Matin"	""	"1"	"2"	""	""	""	""	""
+"A"	"1"	"Al-Karim"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"Al-Mukmin"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"Al-Wakil"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"Fatimah meyakini bahwa ada malaikat yang bertugas mengatur rezeki. Ia yakin bahwa
+malaikat akan memudahkan urusan rezekinya selama ia mau berusaha dan berdoa. Ia
+pantang berputus asa dan berpangku tangan karena memang Allah Swt. tidak akan
+menurunkan harta benda dengan menjatuhkannya begitu saja dari langit.
+Dari contoh perilaku di atas menunjukkan bahwa Fatimah meyakini akan adanya malaikat. &nbsp;"	""	"S"	"1"	"11"	"0"	"0"	"0"	"0"
+"A"	"1"	"Jibril"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"Mikail"	""	"1"	"2"	""	""	""	""	""
+"A"	"1"	"Raqib"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"Atid"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"Israfil"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"Al-Qur’ān di turunkan Allah Swt. kepada Nabi Muhammad saw. Melalui Malaikat Jibril. AlQur’ān diturunkan tidak sekaligus, melainkan secara berangsurangsur. Waktu turun alQur’an selama kurang lebih. …&nbsp;"	""	"S"	"1"	"12"	"0"	"0"	"0"	"0"
+"A"	"1"	"22 tahun 1 bulan 22 hari"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"22 tahun 2 bulan 22 hari"	""	"0"	"2"	""	""	""	""	""
+"A"	"1"	"22 tahun 3 bulan 22 hari"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"22 tahun 4 bulan 22 hari"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"22 tahun 5 bulan 22 hari"	""	"1"	"5"	""	""	""	""	""
+"Q"	"1"	"Cermati penggalan surah di bawah ini! Dalam Q.S. az-Zalzalah/99:1 di atas dijelaskan bahwa peristiwa terjadinya kiamat dimulai
+dengan…..&nbsp;"	""	"S"	"1"	"13"	"0"	"0"	"0"	"0"
+"A"	"1"	"matahari digulung"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"bintang-bintang berjatuhan"	""	"0"	"2"	""	""	""	""	""
+"A"	"1"	"gunung-gunung dihancurkan"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"manusia bagaikan anai-anai yang bertebaran"	""	"1"	"4"	""	""	""	""	""
+"A"	"1"	"bumi digoncangkan dengan goncangan yang dahsyat"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"Hari kiamat pasti akan datang, tetapi tidak ada satu makhlukpun yang dapat mengetahui
+kapan datangnya. Al-Quran dan hadits hanya menjelaskan tanda-tanda hari kiamat, baik
+tanda alam ataupun tanda-tanda kemerosotan akhlak. Pernyataan di bawah ini yang
+merupakan tanda hari kiamat berupa kerusakan akhlak adalah ... .&nbsp;"	""	"S"	"1"	"14"	"0"	"0"	"0"	"0"
+"A"	"1"	"keluarnya dajjal"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"terbitnya matahari dari arah barat
+C. datangnya bangsa Ya’jud dan Ma’jud"	""	"0"	"2"	""	""	""	""	""
+"A"	"1"	"datangnya bangsa Ya’jud dan Ma’jud"	""	"1"	"3"	""	""	""	""	""
+"A"	"1"	"minuman keras dan perzinahan merajarela"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"munculnya binatang yang dapat bicara dengan manusia"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"Setelah alam semesta hancur secara total dan kehidupan makhluk Allah Swt. berakhir, maka mulailah manusia menjalani beberapa fase kehidupan baru menuju alam baqa. Salah satu fase tersebut adalah manusia akan diperlihatkan semua amalan di dunia untuk dihitung dengan seksama dan teliti. Fase perhitungan amal manusia adalah ... .
+&nbsp;"	""	"S"	"1"	"15"	"0"	"0"	"0"	"0"
+"A"	"1"	"Yaumul ba’ats"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"Yaumul hasr"	""	"0"	"2"	""	""	""	""	""
+"A"	"1"	"Yaumul jaza’"	""	"1"	"3"	""	""	""	""	""
+"A"	"1"	"Asy –syirid"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"Yaumul hisab"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"Indonesia sudah berhasil kendalikan pandemi Covid-19 dan kini masuk fase endemi.
+Peralihan ke fase endemi ini disebut dapat terwujud karena adanya kekebalan tubuh.Tingkat
+keparahan penyakit dari infeksi Covid-19 dapat ditekan hingga ke level yang tidak
+signifikan. Salah satu faktor yang bisa menekan itu adalah kekebalan tubuh. Kalau saja
+semua penduduk mempunyai kekebalan, maka orang yang terinfeksi pun tidak akan
+bergejala atau tidak akan masuk rumah sakit, dan tidak akan menjadi berat apalagi
+meninggal dunia. Faktor lainnya yakni masyarakat harus tetap menjaga diri dengan
+memberlakukan pola hidup sehat.
+Sesuai narasi tersebut, berikut ini yang merupakan perilaku beriman pada qadha dan qadar
+adalah. … &nbsp;"	""	"S"	"1"	"16"	"0"	"0"	"0"	"0"
+"A"	"1"	"tidak perlu memberlakukan pola hidup sehat, karena sakit itu merupakan takdir"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"berdiam diri di dalam rumah dan tidak beraktivitas untuk menghindari virus"	""	"0"	"2"	""	""	""	""	""
+"A"	"1"	"berkeyakinan bahwa musibah ini datang dari Allah Swt., dan tetap berikhtiar dengan
+pola hidup sehat"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"menyerahkan sepenuhnya kepada Allah Swt., sambil menunggu bantuan dari orang lain"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"tidak perlu khawatir berlebihan terhadap karena takdir Allah yang menentukan segalanya"	""	"1"	"5"	""	""	""	""	""
+"Q"	"1"	"Perhatikan beberapa pernyataan berikut1
+1) Ibu Edoh sampai tua tetap bekerja, karena dia berprinsip bahwa bekerja itu ibadah.
+2) Ratna mengerutu ketika mendapatkan nilai jelek, karena dia merasa paling pandai di
+kelasnya.
+3) Purnomo bekerja dengan tekun agar mendapatkan hasil yang maksimal, karena taqdir
+harus diusahakan.
+4) Arfan tetap semangat belajar, karena dia merasa masih kurang dalam menguasai materi
+pembelajaran dan nilainya kurang baik.
+5) Agnes hilang semangat dalam menjalani hidupnya, karena sakit yang dideritanya sejak
+lama tidak kunjung sembuh sampai saat ini.
+Berdasarkan pernyataan-pernyataan tersebut, perilaku yang mencerminkan iman kepada
+Qada dan Qadar terdapat pada nomor ....&nbsp;"	""	"S"	"1"	"17"	"0"	"0"	"0"	"0"
+"A"	"1"	"1, 2, dan 3"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"1, 4, dan 5"	""	"0"	"2"	""	""	""	""	""
+"A"	"1"	"1, 3, dan 4"	""	"1"	"3"	""	""	""	""	""
+"A"	"1"	"2, 4, dan 5"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"3, 4, dan 5"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"Allah SWT. telah menggariskan hukum-Nya dalam qada dan qadar. Dengan pemahaman
+yang benar kita mampu menjadi pribadi yang kuat dan optimis. Untuk mencapai hal tersebut,
+usaha yang harus dilakukan adalah …..&nbsp;"	""	"S"	"1"	"18"	"0"	"0"	"0"	"0"
+"A"	"1"	"bersikap sombong"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"menjadikan sesuatu dengan sia-sia"	""	"0"	"2"	""	""	""	""	""
+"A"	"1"	"mengasingkan diri dengan dunia luar"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"memiliki prasangka buruk kepada orang lain"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"melakukan doa dan ikhtiar serta tawakal"	""	"1"	"5"	""	""	""	""	""
+"Q"	"1"	"Pakaian yang dikenakan seorang wanita hendaknya ialah pakaian yang menutup seluruh tubuhnya kecuali pada bagian muka dan telapak tangan. Agama Islam menaruh perhatian
+yang sangat besar terhadap perempuan, hal ini semata-mata karena islam sangat memuliakan wanita.
+Berikut ketentuan berpakaian menurut syari’at untuk wanita adalah …..&nbsp;"	""	"S"	"1"	"19"	"0"	"0"	"0"	"0"
+"A"	"1"	"menunjukkan lekukan tubuh"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"memakai hiasan berlebihan dan mewah"	""	"1"	"2"	""	""	""	""	""
+"A"	"1"	"pakaian yang tidak mengundang syahwat"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"menyerupai pakaian yang berjenis kelamin berbeda"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"memakai bahan yang tipis"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"Untuk menjaga diri dari gangguan orang yang tidak bertanggungjawab, Isnawati memakai pakaian yang sesuai dengan ketentuan Islam. Ia yakin bahwa Allah akan menjaga hambanya
+yang mau memakai jilbab dari gangguan lelaki yang tidak bertanggung jawab.
+Berikut ini kriteria pakaian muslimah adalah … .&nbsp;"	""	"S"	"1"	"20"	"0"	"0"	"0"	"0"
+"A"	"1"	"panjang sampai menyapu tanah"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"ketat sehingga menampakkan lekuk tubuh"	""	"0"	"2"	""	""	""	""	""
+"A"	"1"	"menyerupai pakaian yang berjenis kelamin berbeda"	""	"1"	"3"	""	""	""	""	""
+"A"	"1"	"menutupi seluruh tubuh, kecuali muka dan telapak tangannya"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"tipis, sehingga bagian badan yang menjadi aurat wanita terlihat dengan jelas"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"Ketika seseorang mengikrarkan diri, menjadikan Islam sebagai keyakinannya, dengan
+mengucapkan dua kalimat syahadat, berarti dia telah membenarkan ajaran Islam, dan
+pertanda pula bahwa dia siap untuk berkomitmen terhadap ajaran-ajaran Islam. Dalam salat
+subuh contohnya, seorang muslim selalu mengerjakannya sebanyak dua raka’at, karena
+syariat memerintahkannya demikian sehingga apapun kondisinya, seperti di tempat yang
+sepi, dia akan tetap mengerjakannya dua rakaat.
+Keutamaan perilaku jujur dari narasi diatas adalah…..&nbsp;"	""	"S"	"1"	"21"	"0"	"0"	"0"	"0"
+"A"	"1"	"Kejujuran adalah salah satu tingkatan Iman dan Islam"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"Kejujuran akan membimbing pada kebaikan"	""	"0"	"2"	""	""	""	""	""
+"A"	"1"	"Jujur memberikan rasa nyaman dan hati tenang"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"Jujur akan menyelamatkan dari azab dan laknat Allah Swt"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"Jujur merupakan penyempurna iman seorang muslim"	""	"1"	"5"	""	""	""	""	""
+"Q"	"1"	"Sifat jujur harus ditanamkan sejak dini dalam lingkungan keluarga. Seorang kepala rumah
+tangga bersikap jujur kepada istri dan anak-anaknya. Demikian pula, seorang anak harus
+bersikap jujur kepada kedua orang tua. Berikut ini yang merupakan contoh perilaku yang
+mencerminkan kejujuran dalam keluarga adalah ….&nbsp;"	""	"S"	"1"	"22"	"0"	"0"	"0"	"0"
+"A"	"1"	"Yani memperlihatkan bakatnya sebagai pesilat kepada ayah dan ibuny"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"Hana memperlihatkan hasil ulangan harian kepada ayah dan ibunya"	""	"0"	"2"	""	""	""	""	""
+"A"	"1"	"Ahmad bercerita tentang peristiwa perkelahian di kampung sebelah"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"Dafiq membersihkan kamar tidurnya secara rutin tiap hari"	""	"1"	"4"	""	""	""	""	""
+"A"	"1"	"Irfan berhasil membahagiakan hati orang tunya"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"Perhatikan pernyataan di bawah ini :
+1) Memiliki keteguhan hati
+2) Memiliki kekuatan pendirian
+3) Jujur pada diri sendiri
+4) Mempertahankan kebenaran
+5) Peduli terhadap orang lain
+Yang termasuk ke dalam makna syaja’ah adalah&nbsp;"	""	"S"	"1"	"23"	"0"	"0"	"0"	"0"
+"A"	"1"	"1, 2 dan 3"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"1,2 dan 4"	""	"0"	"2"	""	""	""	""	""
+"A"	"1"	"1,2 dan 5"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"2,3 dan 4"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"3,4 dan 5"	""	"1"	"5"	""	""	""	""	""
+"Q"	"1"	"Perhatikan pernyataan berikut:
+1) Ahmad bertekad memberikan kontribusi kepada pemerintah dalam menentukan awal
+dan akhir bulan Ramadlan, ia kuliah di ma’had aly jurusan ilmu falaq
+2) Rofi’i lebih memilih belajar di pondok pesantren berbasis pertanian selama satu tahun
+untuk mendalami ilmu pertanian
+3) Ainiyah termotivasi mendalami ilmu komputer di jurusan animasi agar mampu
+membuat game edukasi
+4) Ali memilih kuliah di fakultas kedokteran agar dapat menolong orang-orang miskin
+yang sakit
+5) Shofiyah meluangkan waktu lima bulan untuk mendalami ilmu tauhid (ma’rifatullah)
+Berdasarkan pernyataan di atas, contoh perbuatan menuntut ilmu yang dihukumi fardlu
+kifayah adalah ....&nbsp;"	""	"S"	"1"	"24"	"0"	"0"	"0"	"0"
+"A"	"1"	"1), 2) dan 3)"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"1), 2) dan 4)"	""	"0"	"2"	""	""	""	""	""
+"A"	"1"	"1), 2) dan 5)"	""	"1"	"3"	""	""	""	""	""
+"A"	"1"	"1), 3) dan 4)"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"1), 3) dan 5)"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"Perhatikan beberapa pernyataan di bawah ini !
+1. Mendengarkan semua perkataannya dengan penuh rasa hormat dan rendah hati.
+2. Menyambung tali silaturahim dengan kerabat dan sahabat orang tua.
+3. Membantu pekerjaan rumah atau pekerjaan lain yang dapat meringankan beban orang
+tua.
+4. Senantiasa meminta doa restu
+5. Melanjutkan cita-cita orang tua.
+6. Memberi nafkah jika sudah tidak mampu manafkahi dirinya sendiri
+7. Mendoakan ayah dan ibu dengan memintakan ampun kepada Allah Swt.
+Cara menghormati dan taat kepada orang tua yang masih hidup ditunjukkan pada nomor.....&nbsp;"	""	"S"	"1"	"25"	"0"	"0"	"0"	"0"
+"A"	"1"	"1, 2, 3, 4 dan 5"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"1, 2, 3, 5 dan 6"	""	"1"	"2"	""	""	""	""	""
+"A"	"1"	"1, 3, 4, 6 dan 7"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"1, 3, 5, 6 dan 7"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"1, 2, 3, 4 dan 7"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"Islam mengajarkan umatnya untuk berbakti kepada orang tua dengan melaksanakan apa-apa
+yang diperintahkan keduanya dan menjauhi apa-apa yang dilarangnya selama tidak
+melanggar batasan-batasan yang telah ditetapkan dalam Al-Qur’an dan al-Hadis. Berbakti
+kepada orang tua haruslah dilakukan dengan ihsan, yaitu memperlakukan mereka dengan
+baik, sehingga hatinya bergembira dan berbahagia.
+Contoh perbuatan berikut yang bukan termasuk hormat dan patuh kepada orang tua adalah
+....&nbsp;"	""	"S"	"1"	"26"	"0"	"0"	"0"	"0"
+"A"	"1"	"Amri masih sakit hati atas perlakuan bapaknya dalam membedakan pembagian uang saku"	""	"1"	"1"	""	""	""	""	""
+"A"	"1"	"Dengan kesungguhan, Afrizal meminta maaf kepada ibunya atas kesalahan yang telah diperbuatnya"	""	"0"	"2"	""	""	""	""	""
+"A"	"1"	"Gaji pertama yang didapatkan Ahnas diberikan kepada ibunya sebagai ungkapan terima kasih atas jasa ibunya"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"Rif’an belajar dengan sungguh-sungguh agar memperoleh hasil terbaik demi membahagiakan orang tuanya"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"Kesantunan dalam berbahasa dan bertingkah laku telah mengangkat derajat orangtuanya di hadapan guru dan tokoh masyarakat"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"Lengkapilah terjemahan hadist berikut ini!
+“Tidak ada seorang yang memakan satu makanan pun yang lebih baik dari makanan hasil
+…..” (HR. Bukhari)&nbsp;"	""	"S"	"1"	"27"	"0"	"0"	"0"	"0"
+"A"	"1"	"mencuri"	""	"1"	"1"	""	""	""	""	""
+"A"	"1"	"usaha orang tuanya"	""	"0"	"2"	""	""	""	""	""
+"A"	"1"	"jerih payahnya"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"pekerjaannya sendiri"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"usaha tangannya sendiri"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"Perhatikan kisah berikut ini! Sudarno, lelaki bertubuh kerempeng ini berjalan menuju sebuah gedung. Tawaran untuk jadi tukang sapu langsung diambilnya tanpa pikir panjang. Karena kinerjanya bagus, kariernya menanjak hingga diangkat menjadi penanggung jawab gudang. Selama bekerja di kantor, ia mencari penghasilan tambahan dengan berjualan kaos kaki, sarung tangan dan lain-lain. Karena usahanya semakin sukses, ia memutuskan untuk mengundurkan diri dari kantornya. Dan saat ini omset penjualan mencapai 50 juta per bulan. Berdasarkan kisah tersebut, nilai keteladanan dari sosok Sudarno adalah ….&nbsp;"	""	"S"	"1"	"28"	"0"	"0"	"0"	"0"
+"A"	"1"	"Semangat menuntut ilmu"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"Berani memilih kekayaan"	""	"0"	"2"	""	""	""	""	""
+"A"	"1"	"Berkata sesuai kenyataan"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"Bekerja keras dengan penuh semangat"	""	"1"	"4"	""	""	""	""	""
+"A"	"1"	"Mengutamakan kepentingan perusahaan"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"Islam mengajarkan umatnya agar senantiasa bekerja keras dalam kehidupan sehari-hari. Bekerja keras berarti kerja sungguh-sungguh, ulet, dan tanpa mengenal lelah. Pernyataan berikut ini manakah yang termasuk kerja keras ….&nbsp;"	""	"S"	"1"	"29"	"0"	"0"	"0"	"0"
+"A"	"1"	"Rendi bekerja sebagai peminta-minta"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"Yuda tidak mau menerima beasiswa dari pemerintah"	""	"0"	"2"	""	""	""	""	""
+"A"	"1"	"Hana belajar setiap malam agar menjadi orang sukses"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"Umi sering memberi bantuan kepada temannya"	""	"1"	"4"	""	""	""	""	""
+"A"	"1"	"Andi bekerja siang malam tanpa istirahat"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"Allah dan Rasul telah memerintahkan kepada kita untuk membiasakan perilaku bekerja keras dan tidak boleh berimajinasi saja atau bergantung pada orang lain dengan cara memintaminta. Agar kita mendapatkan hasil kerja yang baik, kita harus memiliki motivasi atau semangat, rajin, tekun dan ulet dengan maksud agar berhasil dan dapat mencukupi kebutuhan hidup. Dari narasi tersebut dapat disimpulkan perilaku kerja keras dalam kehidupan sehari-hari adalah …&nbsp;"	""	"S"	"1"	"30"	"0"	"0"	"0"	"0"
+"A"	"1"	"selalu berkonsultasi dengan para ahli dalam menyelesaikan perkerjaan"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"menggunakan bantuan media sosial untuk berkerja mencari nafkah"	""	"1"	"2"	""	""	""	""	""
+"A"	"1"	"belajar dengan tekun sepanjang malam untuk menghadapi ujian besok"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"bekerja sampai larut malam tanpa memperhatikan kesehatan fisik"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"mengerjakan tugas sekolah dengan semangat, teliti dan tepat waktu"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"Perilaku kerja keras sudah dicontohkan oleh Nabi Muhammad Saw. Beliau tidak hanya menghabiskan waktu untuk mengingat Allah saja, tetapi bekerja keras dengan cara berdagang. Berdasarkan hal tersebut, kita dapat mencontoh Nabi bahwa kita diperintahkah oleh Allah dan Rasul-Nya untuk membiasakan perilaku bekerja keras. Dari deskripsi tersebut dapat disimpulkan yang tidak termasuk hikmah kerja keras dalam kehidupan sehari-hari adalah…&nbsp;"	""	"S"	"1"	"31"	"0"	"0"	"0"	"0"
+"A"	"1"	"mengangkat harkat martabat diri baik sebagai makhluk individu maupun sebagai masyarakat;"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"meningkatkan taraf hidup dan meningkatkan kesejahteraan"	""	"1"	"2"	""	""	""	""	""
+"A"	"1"	"membentuk pribadi yang kurang disiplin dan bertanggung jawab"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"mendorong untuk hidup mandiri dan tidak menjadikannya beban bagi orang lain"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"memenuhi kebutuhan hidup diri dan keluarga terpenuhi"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"Kitab suci Al-Quran sebagai sumber hukum Islam yang pertama mensyariatkan salah satunya tentang kewajiban mendirikan shalat bagi orang yang beriman, namun tentang bagaimana kaifiyat atau tata cara pelaksanaan salat lima waktu tidak dijelaskan secara rinci dan detail di dalamnya. Tentu saja secara teknis perlu memahami sumber hukum yang kedua yakni Hadits. Berdasarkan narasi di atas fungsi Hadits terhadap Al-Qur’an adalah. …&nbsp;"	""	"S"	"1"	"32"	"0"	"0"	"0"	"0"
+"A"	"1"	"menentukan hukum yang tidak terdapat dalam Al-Quran"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"merinci hukum dalam Al-Quran yang masih bersifat global"	""	"0"	"2"	""	""	""	""	""
+"A"	"1"	"membatasi hukum yang belum ada batasnya dalam Al-Quran"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"memperkuat hukum yang sudah ditetapkan oleh Al-Quran"	""	"1"	"4"	""	""	""	""	""
+"A"	"1"	"membatalkan hukum yang sudah ditetapkan oleh Al-Quran"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"Inseminasi buatan dan bayi tabung memerlukan penetapan hukum Syariah, sementara dalam al Qur’an dan Hadis tidak ditemukan hukumnya secara pasti. Untuk menetapkan hukum Inseminasi buatan dan bayi tabung tersebut ditempuh melalui...&nbsp;"	""	"S"	"1"	"33"	"0"	"0"	"0"	"0"
+"A"	"1"	"pemikiran para penegak hukum setempat"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"lembaga hukum milik pemerintah"	""	"0"	"2"	""	""	""	""	""
+"A"	"1"	"upaya para ulama melalui ijtihad"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"penggalian di kitab al Qur’an"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"penggalian hukum di Hadits"	""	"1"	"5"	""	""	""	""	""
+"Q"	"1"	"Perhatikan tata cara mensalatkan jenazah berikut ini:
+1) Takbir empat kali
+2) Membaca doa untuk jenazah
+3) Imam menghadap ke arah perut jenazah
+4) Imam menghadap ke arah kepala jenazah
+5) Membaca surah Al-Fatihah setelah takbir pertama
+6) Membaca surat-surat pendek setelah takbir ketiga
+Yang termasuk ketentuan dan tata cara mensalatkan jenazah laki-laki ditunjukkan pada
+nomor. …&nbsp;"	""	"S"	"1"	"34"	"0"	"0"	"0"	"0"
+"A"	"1"	"1), 2), 4) dan 5)"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"1), 2), 4) dan 6)"	""	"0"	"2"	""	""	""	""	""
+"A"	"1"	"1), 2), 3) dan 4)"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"2), 3), 4) dan 5)"	""	"1"	"4"	""	""	""	""	""
+"A"	"1"	"2), 4), 5) dan 6)"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"Ayah Ahmad meninggal dunia setelah menderita sakit ginjal cukup lama. Ahmad kemudian meminta tolong kepada seorang Ustadz untuk mengurus jenazah ayahnyanya. Setelah dimandikan dan dikafani, kemudian jenazah Ayahnya Ahmad dishalatkan dengan ketentuan posisi berdiri imam berada sejajar dengan ….&nbsp;"	""	"S"	"1"	"35"	"0"	"0"	"0"	"0"
+"A"	"1"	"dada jenazah"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"lutut jenazah"	""	"1"	"2"	""	""	""	""	""
+"A"	"1"	"kaki jenazah"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"pusar jenazah"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"kepala jenazah"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"Perhatikan ketentuan pernikahan berikut:
+1) Calon mempelai laki-laki
+2) Calon mempelai perempuan
+3) Adanya wali nikah
+4) Dua orang saksi
+5) Shigat (Ijab Qobul)
+6) Mahar
+7) Penghulu
+Berdasarkan ketentuan tersebut, yang merupakan rukun pernikahan dalam Islam adalah ….&nbsp;"	""	"S"	"1"	"36"	"0"	"0"	"0"	"0"
+"A"	"1"	"1), 2), 3), 4) dan 5)"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"1), 2), 3), 4) dan 6)"	""	"0"	"2"	""	""	""	""	""
+"A"	"1"	"1), 2), 4), 5) dan 6)"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"1), 3), 4), 5) dan 7)"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"1), 3), 4), 6) dan 7)"	""	"1"	"5"	""	""	""	""	""
+"Q"	"1"	"Keluarga pa Rahman terdiri dari bu Endah sebagai istri, Ranita sebagai anak perempuan, Torik sebagai anak-anak laki-laki dan Zidan sebagai anak angkat, serta Rahim sebagai adik kandung pa Rahman. Jika pa Rahman wafat siapakah diantara ahli waris di atas yang berfungsi sebagai Asobah Binnafsi?&nbsp;"	""	"S"	"1"	"37"	"0"	"0"	"0"	"0"
+"A"	"1"	"Endah dan Ranita"	""	"1"	"1"	""	""	""	""	""
+"A"	"1"	"Torik dan Rahim"	""	"0"	"2"	""	""	""	""	""
+"A"	"1"	"Torik dan Zidan"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"Ranita dan Torik"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"Rahim dan Zidan"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"<img src='../../cache/upload/PAI/Ujian Sekolah/gambarindo1.jpg'><br/>Perhatikan pernyataan di bawah ini! 1) dapat menyucikan jiwa dari sifat serakah dan bakhil 2) dapat menimbulkan kekaguman masyarakat sekitar 3) mendapatkan pahala yang berlipat di sisi Allah Swt 4) dapat menjadikan perubahan sosial para mustahik 5) dapat mengangkat derajat pemilik harta dengan berkah, Dari pernyataan di atas, dapat disimpulkan yang termasuk hikmah zakat bagi muzakki adalah …&nbsp;"	""	"S"	"1"	"38"	"0"	"0"	"0"	"0"
+"A"	"1"	"(1), (2) dan (3)"	""	"1"	"1"	""	""	""	""	""
+"A"	"1"	"(1), (2) dan (4)"	""	"0"	"2"	""	""	""	""	""
+"A"	"1"	"(1), (3) dan (4)"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"(1), (3) dan (5)"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"(1), (4) dan (5)"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"Perhatikan pernyataan berikut! 1) Mengucapkan salam 2) Mengucapkan hamdalah 3) Mengucapkan syahadat 4) Mengucapkan shalawat 5) Menyampaikan pesan takwa 6) Membaca istighfar Dari pernyataan di atas, dapat disimpulkan yang termasuk rukun khutbah jum’at adalah. …&nbsp;"	""	"S"	"1"	"39"	"0"	"0"	"0"	"0"
+"A"	"1"	"1, 2, 3, dan 4"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"2, 3, 4 dan 5"	""	"1"	"2"	""	""	""	""	""
+"A"	"1"	"3, 4, 5 dan 6"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"1, 3, 4 dan 5"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"1, 3, 4 dan 6"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"Perhatikan pernyataan berikut! 1) Terpeliharanya kehormatan suami istri dari perbuatan zina 2) Mendapatkan keturunan yang sah dari hasil pernikahan 3) Pasangannya tidak sesuai dengan agama yang dianut 4) Terwujudnya ketenteraman, kasih sayang, dan cinta 5) Terciptanya hubungan antara laki-laki dan perempuan yang bukan mahram Dari pernyataan di atas, dapat disimpulkan yang termasuk hikmah pernikahan adalah. …&nbsp;"	""	"S"	"1"	"40"	"0"	"0"	"0"	"0"
+"A"	"1"	"1), 2) dan 3)"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"1), 2) dan 4)"	""	"0"	"2"	""	""	""	""	""
+"A"	"1"	"1), 3) dan 5)"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"2), 3) dan 4)"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"2), 3) dan 5)"	""	"1"	"5"	""	""	""	""	""
+"Q"	"1"	"Jika ahli waris yang ditnggalkan seorang istri, nenek, ibu, 1 anak laki-laki, dan 2 anak perempuan, dengan harta waris sebesar Rp. 480 juta, berapakah bagian anak laki-laki dalam rupiah?&nbsp;"	""	"S"	"1"	"41"	"0"	"0"	"0"	"0"
+"A"	"1"	"60000000"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"80000000"	""	"1"	"2"	""	""	""	""	""
+"A"	"1"	"100000000"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"170000000"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"250000000"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"Perhatikan pernyataan-pernyataan di bawah ini ! 1) Telah datang 13 orang penduduk Madinah menemui Rasulullah saw. di Bukit Aqabah. Mereka berikrar memeluk agama Islam 2) penghianatan orang-orang Yahudi kepada Rasulullah Saw dan pengikutnya 3) siksaan yang diterima Rasulullah dan orang muslim dari orang-orang kafir Quraisy semakin berat. 4) Ka’bah dijadikan tempat pemujaan berhala oleh kafir Quraisy 5) pemboikotan yang dilakukan oleh kafir Quraisy kepada Rasulullah Saw dan pengikutnya. Dari pernyataan tersebut, dapat disimpulkan yang termasuk faktor pendorong Rasulullah Saw hijrah ke Madinah adalah....&nbsp;"	""	"S"	"1"	"42"	"0"	"0"	"0"	"0"
+"A"	"1"	"1,2, dan 3"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"1,2, dan 4"	""	"0"	"2"	""	""	""	""	""
+"A"	"1"	"1,3, dan 5"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"2,3, dan 4"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"2,3, dan 5"	""	"1"	"5"	""	""	""	""	""
+"Q"	"1"	"Perhatikan pernyataan berikut ini: 1) Umat Islam sangat konsisten dan istiqamah kepada Islam sebagai hasil dari proses telaah dan kajian yang mendalam. 2) Motivasi ajaran Islam agar umatnya unggul, maju, dan berkualitas dalam segala aspek kehidupan. 3) Adanya hubungan yang dinamis antara kebudayaan Arab (Islam) dengan kebudayaan lain yang telah maju sebelum datangnya ajaran Islam, misalnya Mesir, Babylonia, Yunani, India, dan Persia. 4) Ajaran Islam yang membawa keseimbangan antara capaian lahir dan batin, serta kesuksesan duniawi dan ukhrawi. 5) Adanya kebebasan berpikir dan mengemukakan pendapat yang dijamin oleh aturan yang berlaku. Dari pernyataan tersebut, dapat disimpulkan yang termasuk Faktor-faktor internal yang mendorong kemajuan peradaban umat Islam adalah…&nbsp;"	""	"S"	"1"	"43"	"0"	"0"	"0"	"0"
+"A"	"1"	"1, 2, 3, dan 4"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"2, 3, 4, dan 5"	""	"0"	"2"	""	""	""	""	""
+"A"	"1"	"1, 3, 4, dan 5"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"1,2,4, dan 5"	""	"1"	"4"	""	""	""	""	""
+"A"	"1"	"1, 2, 3 dan 5"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"Pada 1979, seorang ilmuwan muslim memenangkan hadiah Nobel. Penemuan terbesar dalam hidupnya ini adalah kunci yang mendasari teori fisika partikel yang masih dipakai hingga kini, partikel ini dikenal sebagai partikel Tuhan, partikel tersebut juga menjadi tonggak penemuan partikel Higgs Boson pada 2012. (www.fisikanet.lipi.go.id) Urutan nama ilmuwan muslim berdasarkan asal negara dan bidang hadiah Nobel yang dimenangkannya adalah. …&nbsp;"	""	"S"	"1"	"44"	"0"	"0"	"0"	"0"
+"A"	"1"	"Muhammad Iqbal - Pakistan - bidang Fisika nuklir"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"Abdus Salam - Pakistan - bidang Fisika"	""	"1"	"2"	""	""	""	""	""
+"A"	"1"	"Al-Hawarizmi - Uzbekistan - Rekayasa Partikel"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"Baharuddin Jusuf Habibi - Indonesia - Mekanika Pesawat"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"Salman Khan - India - Termodinamika"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"Sebagai salah satu metode penyebaran Agama Islam di Indonesia adalah dengan mengakomodir kebudayaan lokal seperti sastra dan pewayangan atau disebut juga akulturasi budaya. Tujuan dari akulturasi ini diantaranya agar menarik masyarakat dalam memahami dan menjalankan ajaran Islam. Berdasarkan deskripsi tersebut, faktor yang mempengaruhi perkembangan Islam di Indonesia adalah …&nbsp;"	""	"S"	"1"	"45"	"0"	"0"	"0"	"0"
+"A"	"1"	"Perkawinan"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"Perdagangan"	""	"0"	"2"	""	""	""	""	""
+"A"	"1"	"Pendidikan"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"Tasawuf"	""	"1"	"4"	""	""	""	""	""
+"A"	"1"	"Kesenian"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"Perhatikan pernyataan di bawah ini : 1) Perdagangan 2) Pernikahan 3) Pendidikan 4) Kesenian 5) Persaudaraan Strategi masuknya Islam ke Nusantara menggunakan cara damai dan dilakukan dengan caracara …&nbsp;"	""	"S"	"1"	"46"	"0"	"0"	"0"	"0"
+"A"	"1"	"1, 2, 3 dan 4"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"1, 2, 3 dan 5"	""	"0"	"2"	""	""	""	""	""
+"A"	"1"	"1, 2, 4 dan 5"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"1, 3, 4 dan 5"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"2, 3, 4 dan 5"	""	"1"	"5"	""	""	""	""	""
+"Q"	"1"	"Perhatikan pernyataan-pernyataan berikut: 1) Kesadaran umat Islam menggali dan mengembangkan ilmu pengetahuan 2) Gerakan penerjemahan buku-buku filsafat ke dalam bahasa Arab 3) Terjadinya asimilasi antara bangsa Arab dengan bangsa lainnya 4) Didirikannya Baitul Hikmah sebagai pusat penerjemahan 5) Pengaruh negatif dari aliran-aliran pemikiran Islam Dari pernyataan tersebut, dapat disimpulkan yang termasuk faktor-faktor pendukung kejayaan Islam adalah ….&nbsp;"	""	"S"	"1"	"47"	"0"	"0"	"0"	"0"
+"A"	"1"	"1), 2), 3) dan 4)"	""	"1"	"1"	""	""	""	""	""
+"A"	"1"	"1), 2), 3) dan 5)"	""	"0"	"2"	""	""	""	""	""
+"A"	"1"	"1), 2), 4) dan 5)"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"1), 3), 4) dan 5)"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"2), 3), 4) dan 5)"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"Sifat syaja’ah akan berdampak positif dalam kehidupan sehari-hari. Perilaku syaja’ah akan menjadikan seseorang semakin optimis dalam menghadapi semua permasalahan hidup. Oleh karena itu, setiap muslim harus membiasakan diri berperilaku syaja’ah.. Berikut ini yang merupakan contoh perilaku syaja’ah adalah ….&nbsp;"	""	"S"	"1"	"48"	"0"	"0"	"0"	"0"
+"A"	"1"	"Berbuat secara spontan tanpa pertimbangan akal sehat"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"Semangat dan pantang menyerah dalam menghadapi sesuatu"	""	"0"	"2"	""	""	""	""	""
+"A"	"1"	"Berpikir untuk menciptakan kemajuan untuk hidup orang banyak"	""	"1"	"3"	""	""	""	""	""
+"A"	"1"	"Konsisten atau stiqomah terhadap segala hal"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"Bertekad kuat dan siap menanggung resiko"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"Perhatikan pernyataan berikut: 1) Menguatnya materialisme 2) Gaya hidup bermewah-mewahan 3) Tumbuh subur korupsi, kolusi dan nepotisme 4) Dekadensi moral 5) Gangguan dari orang-orang munafik Dari pernyataan tersebut, dapat disimpulkan yang termasuk faktor-faktor internal yang mempengaruhi kemunduran peradaban umat Islam ditunjukkan pada nomor …&nbsp;"	""	"S"	"1"	"49"	"0"	"0"	"0"	"0"
+"A"	"1"	"1), 2), 3) dan 4)"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"1), 2), 3) dan 5)"	""	"0"	"2"	""	""	""	""	""
+"A"	"1"	"1), 2), 4) dan 5)"	""	"1"	"3"	""	""	""	""	""
+"A"	"1"	"1), 3), 4) dan 5)"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"2), 3), 4) dan 5)"	""	"0"	"5"	""	""	""	""	""
+"Q"	"1"	"Perhatikan pernyataan berikut: 1) Akibat berpalingnya dari Al-Quran dan Hadits 2) Taklid buta 3) Perpecahan antar umat Islam 4) Peperangan antara haq dan bathil 5) Perbedaan pandangan atau madzhab Dari pernyataan tersebut, dapat disimpulkan, faktor-faktor yang mempengaruhi kemunduran umat Islam ditunjukkan pada nomor …&nbsp;"	""	"S"	"1"	"50"	"0"	"0"	"0"	"0"
+"A"	"1"	"1), 2), 3) dan 4)"	""	"0"	"1"	""	""	""	""	""
+"A"	"1"	"1), 2), 3) dan 5)"	""	"0"	"2"	""	""	""	""	""
+"A"	"1"	"1), 2), 4) dan 5)"	""	"0"	"3"	""	""	""	""	""
+"A"	"1"	"1), 3), 4) dan 5)"	""	"0"	"4"	""	""	""	""	""
+"A"	"1"	"2), 3), 4) dan 5)"	""	"1"	"5"	""	""	""	""	""
